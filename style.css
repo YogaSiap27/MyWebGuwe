@@ -1,2 +1,12 @@
 .jarak{
     padding
+
+.menu{
+    background-color:#417aa8;
+    height:50px;
+    line-height:50px;
+    position:relative;
+    width:90%;
+    margin0 auto;
+    padding:0 auto;
+}
