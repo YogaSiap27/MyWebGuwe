@@ -20,7 +20,7 @@ body{
 }
 
 .menu{
-    background-color:#808000;
+    background-color:#C2BCAB;
     height:50px;
     line-height:50px;
     position:relative;
@@ -57,7 +57,7 @@ body{
 }
 
 .border{
-    border:2px solid #808000;
+    border:2px solid #C2BCAB;
     margin-top:1pc;
     padding-bottom:1pc;
     padding-left:2pc;
